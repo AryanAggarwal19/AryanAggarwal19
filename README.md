@@ -1,20 +1,20 @@
 👋 Hi, I’m Aryan Aggarwal <br/>
-👀 Interests:
-I’m passionate about coding, data analytics, and development. I enjoy exploring data to uncover insights and thrive on solving complex problems.
+👀 Interests:<br/>
+I’m passionate about coding, data analytics, and development. I enjoy exploring data to uncover insights and thrive on solving complex problems.<br/>
 
-🌱 Current Focus:
-Currently enhancing my skills in data analytics, business intelligence, SQL, and Python to drive impactful data solutions.
+🌱 Current Focus:<br/>
+Currently enhancing my skills in data analytics, business intelligence, SQL, and Python to drive impactful data solutions.<br/>
 
-💼 Collaboration:
-Open to collaborating on data-driven projects, analytical insights, and innovative solutions using SQL, Python, and BI tools.
+💼 Collaboration:<br/>
+Open to collaborating on data-driven projects, analytical insights, and innovative solutions using SQL, Python, and BI tools.<br/>
 
-📫 Reach Me:
-You can reach me via email at aryanaggarwal1901@gmail.com for collaboration or project discussions.
+📫 Reach Me:<br/>
+You can reach me via email at aryanaggarwal1901@gmail.com for collaboration or project discussions.<br/>
 
-😄 Pronouns: He/Him
+😄 Pronouns: He/Him<br/>
 
-⚡ Fun Fact:
-When I’m not diving into data, I’m probably brainstorming the next big challenge to tackle!
+⚡ Fun Fact:<br/>
+When I’m not diving into data, I’m probably brainstorming the next big challenge to tackle!</br>
 
 
 
