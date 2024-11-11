@@ -1,6 +1,3 @@
-
-To copy the format with bullet points for GitHub, you can try this Markdown-friendly text below:
-
 👋 Hi, I’m Aryan Aggarwal
 👀 Interests:
 I’m passionate about coding, data analytics, and development. I enjoy exploring data to uncover insights and thrive on solving complex problems.
