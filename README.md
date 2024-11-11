@@ -1,4 +1,4 @@
-👋 Hi, I’m Aryan Aggarwal
+👋 Hi, I’m Aryan Aggarwal <br/>
 👀 Interests:
 I’m passionate about coding, data analytics, and development. I enjoy exploring data to uncover insights and thrive on solving complex problems.
 
