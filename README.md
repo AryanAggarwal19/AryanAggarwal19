@@ -21,10 +21,6 @@ You can reach me via email at aryanaggarwal1901@gmail.com for collaboration or p
 </li>
 
 <li>
-😄 Pronouns: He/Him<br/>
-</li>
-
-<li>
 ⚡ Fun Fact:<br/>
 When I’m not diving into data, I’m probably brainstorming the next big challenge to tackle!</br>
 </li>
